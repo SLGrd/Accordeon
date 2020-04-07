@@ -1,0 +1,12 @@
+C:\Tutoriais\Accordeon\Accordeon\bin\Debug\Accordeon.exe.config
+C:\Tutoriais\Accordeon\Accordeon\bin\Debug\Accordeon.exe
+C:\Tutoriais\Accordeon\Accordeon\bin\Debug\Accordeon.pdb
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.Properties.Resources.resources
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.csproj.GenerateResource.cache
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.csproj.CoreCompileInputs.cache
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.exe
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.pdb
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.FrmAccordeon.resources
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.FrmF1.resources
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.FrmF2.resources
+C:\Tutoriais\Accordeon\Accordeon\obj\Debug\Accordeon.csprojAssemblyReference.cache
